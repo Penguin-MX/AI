@@ -1,1 +1,0 @@
-# Utils package for Quick AI Bot 
