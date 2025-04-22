@@ -1,0 +1,1 @@
+# Cogs package for Quick AI Bot 
